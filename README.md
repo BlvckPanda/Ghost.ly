@@ -1,2 +1,0 @@
-# Ghost.ly
-# Ghost.ly
